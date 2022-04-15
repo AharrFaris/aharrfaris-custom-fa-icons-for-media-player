@@ -1,7 +1,7 @@
 {
-  "name": "aharrfaris-custom-fa-icons-for-media-player",
+  "name": "aharrfaris-custom-icons-for-media-player",
   "version": "1.0.0",
-  "description": "FA icons adopted from react-icons for my custom react-meadia player on Next.js",
+  "description": "Custom icons adopted from react-icons for my custom react-meadia player on Next.js",
   "author": "AharrFaris",
   "contributors": [
     "AharrFaris <aharrfaris@gmail.com>"
@@ -12,12 +12,12 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:aharrfaris/aharrfaris-custom-fa-icons-for-media-player.git"
+    "url": "git+ssh://git@github.com:aharrfaris/aharrfaris-custom-icons-for-media-player.git"
   },
   "bugs": {
-    "url": "https://github.com/aharrfaris/aharrfaris-custom-fa-icons-for-media-player/issues"
+    "url": "https://github.com/aharrfaris/aharrfaris-custom-icons-for-media-player/issues"
   },
-  "homepage": "https://github.com/aharrfaris/aharrfaris-custom-fa-icons-for-media-player#readme",
+  "homepage": "https://github.com/aharrfaris/aharrfaris-custom-icons-for-media-player#readme",
   "peerDependencies": {
     "react": "*"
   }
