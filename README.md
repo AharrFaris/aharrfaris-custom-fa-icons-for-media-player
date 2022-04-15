@@ -1,0 +1,1 @@
+This package was adopted from react-icons and customized by myself to inplement on my own Next.js project.
